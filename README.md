@@ -1,5 +1,5 @@
 <h1 align="center">
-  spotifyClone
+  Spotify Clone
 </h1>
 
 <p align="center">Spotify clone with BootStrap</p>
